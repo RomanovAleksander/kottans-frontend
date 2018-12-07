@@ -17,3 +17,11 @@ manipulations.
 ![Intro to HTML and CSS](task_html_css_intro/task3.2.0.jpg)
 I knew HTML and CSS, so for me this course was not difficult. 
 I resumed my knowledge and I was glad to study the basics again.
+## Responsive Web Design
+![Responsive Web Design](task_responsive_web_design/task4.0.jpg)
+![Responsive Web Design](task_responsive_web_design/task4.1.jpg)
+It was a very interesting course, I learned a lot. For example:
+* I understood why it is so important to use responsive web design
+* how to optimize images, tables, and fonts to make for the best responsive layouts
+* learned the most important tools in developing any responsive web application: media queries and [flexbox](http://flexboxfroggy.com/).
+ * and most importantly: I realized that this is art, not science.
