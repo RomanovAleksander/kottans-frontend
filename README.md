@@ -23,5 +23,19 @@ I resumed my knowledge and I was glad to study the basics again.
 It was a very interesting course, I learned a lot. For example:
 * I understood why it is so important to use responsive web design
 * how to optimize images, tables, and fonts to make for the best responsive layouts
-* learned the most important tools in developing any responsive web application: media queries and [flexbox](http://flexboxfroggy.com/).
- * and most importantly: I realized that this is art, not science.
+* learned the most important tools in developing any responsive web application: media queries and [flexbox](http://flexboxfroggy.com/)
+ * and most importantly: I realized that this is art, not science
+ ## JS Basics
+ ![JavaScript Basics](task_js_basics/task5.0.jpg)
+  ![JavaScript Basics](task_js_basics/task5.1.jpg)
+   ![JavaScript Basics](task_js_basics/task5.2.jpg)
+ It was interesting and complicated, I repeated/learned learned the basics of JS: 
+ * data types & variables
+ * loops
+ * functions
+ * arrays
+ * objects
+ * conditionals
+ I finished first half of the course [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+ (It was very difficult. Honestly speaking, I used hints and read a lot of documentation)
+ 
