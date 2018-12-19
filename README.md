@@ -27,7 +27,9 @@ It was a very interesting course, I learned a lot. For example:
  * and most importantly: I realized that this is art, not science
  ## JS Basics
  ![JavaScript Basics](task_js_basics/task5.0.jpg)
+ 
   ![JavaScript Basics](task_js_basics/task5.1.jpg)
+  
    ![JavaScript Basics](task_js_basics/task5.2.jpg)
  It was interesting and complicated, I repeated/learned learned the basics of JS: 
  * data types & variables
@@ -36,6 +38,7 @@ It was a very interesting course, I learned a lot. For example:
  * arrays
  * objects
  * conditionals
+ 
  I finished first half of the course [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
  (It was very difficult. Honestly speaking, I used hints and read a lot of documentation)
  
