@@ -15,7 +15,7 @@
 
 ### Advanced Topics
 - [x] 7. [Building a Tiny JS World](task_js_pre_oop)  - Reviewed and approved by * [Demo](https://romanovaleksander.github.io/a-tiny-JS-world/) | [Codebase](https://github.com/RomanovAleksander/a-tiny-JS-world)
-- [ ] 8. [Object oriented JS](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md
+- [ ] 8. [Object oriented JS](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md)
 - [ ] 9. [OOP exercise](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md)
 - [ ] 10. [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)
 - [ ] 11. [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md)

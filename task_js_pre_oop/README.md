@@ -1,7 +1,4 @@
-## DOM
-![JavaScript Basics](assets/task6.0.jpg)
-![JavaScript Basics](assets/task6.1.jpg)
-Reviewed and approved by @AMashoshyna [Demo](https://romanovaleksander.github.io/js-dom/) | [Codebase](https://github.com/RomanovAleksander/kottans-frontend/tree/master/task_js_dom)
-
+## Building a Tiny JS World
+Reviewed and approved by * [Demo](https://romanovaleksander.github.io/a-tiny-JS-world/) | [Codebase](https://github.com/RomanovAleksander/a-tiny-JS-world)
  
  
