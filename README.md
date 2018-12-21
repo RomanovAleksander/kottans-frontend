@@ -1,53 +1,23 @@
-# Kottans-Frontend
-## Git and GitHub
-![Git](task_git_basics/task0.1.jpg)
-I finished the course How to use Git and GitHub. It was very interestung. 
-I learned a lot of new git commands, made pull request and create repo.
+# Front-End Course. Kottans
 
-## Linux CLI, and HTTP
-![Linux CLI](task_linux_cli/task1.1.jpg)
-It was new for me. I didn't think that via the command line we can do so many 
-manipulations.
- I will use all the knowledge that I gained in this course in the future.
- 
-## Git Collaboration
-![Git Collaboration](task_git_collaboration/task2.1.jpg)
-![Git Collaboration](task_git_collaboration/task2.2.jpg)
-![Git Collaboration](task_git_collaboration/task2.3.jpg)
+## Stage 0. Self-Study
 
-## Intro to HTML and CSS
-![Intro to HTML and CSS](task_html_css_intro/task3.1.jpg)
-![Intro to HTML and CSS](task_html_css_intro/task3.2.0.jpg)
-I knew HTML and CSS, so for me this course was not difficult. 
-I resumed my knowledge and I was glad to study the basics again.
+### General Basics
+- [x] 0. [Git Basics](task_git_basics)
+- [x] 1. [Linux CLI and Networking](task_linux_cli)
+- [x] 2. [VCS (hello gitty), GitHub and Collaboration](task_git_collaboration)
 
-## Responsive Web Design
-![Responsive Web Design](task_responsive_web_design/task4.0.jpg)
-![Responsive Web Design](task_responsive_web_design/task4.1.jpg)
-It was a very interesting course, I learned a lot. For example:
-* I understood why it is so important to use responsive web design
-* how to optimize images, tables, and fonts to make for the best responsive layouts
-* learned the most important tools in developing any responsive web application: media queries and [flexbox](http://flexboxfroggy.com/)
- * and most importantly: I realized that this is art, not science
- 
- ## JS Basics
- ![JavaScript Basics](task_js_basics/task5.0.jpg)
- ![JavaScript Basics](task_js_basics/task5.1.jpg)
- ![JavaScript Basics](task_js_basics/task5.2.jpg)
- It was interesting and complicated, I repeated/learned learned the basics of JS: 
- * data types & variables
- * loops
- * functions
- * arrays
- * objects
- * conditionals
- 
- I finished first half of the course [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
- (It was very difficult. Honestly speaking, I used hints and read a lot of documentation)
- 
- ## DOM
-![JavaScript Basics](task_js_dom/assets/task6.0.jpg)
-![JavaScript Basics](task_js_dom/assets/task6.1.jpg)
+### Front-End Basics
+- [x] 3. [Intro to HTML & CSS](task_html_css_intro)
+- [x] 4. [Responsive Web Design](task_responsive_web_design)
+- [x] 5. [JavaScript Basics](task_js_basics)
+- [x] 6. [Document Object Model](task_js_dom) - Reviewed and approved by * [Demo](https://romanovaleksander.github.io/js-dom/) | [Codebase](https://github.com/RomanovAleksander/js-dom)
 
- 
- 
+### Advanced Topics
+- [x] 7. [Building a Tiny JS World](task_js_pre_oop)  - Reviewed and approved by * [Demo](https://romanovaleksander.github.io/a-tiny-JS-world/) | [Codebase](https://github.com/RomanovAleksander/a-tiny-JS-world)
+- [ ] 8. [Object oriented JS](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md
+- [ ] 9. [OOP exercise](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md)
+- [ ] 10. [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)
+- [ ] 11. [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md)
+- [ ] 12. [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)
+- [ ] 13. [Friends App](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md)
