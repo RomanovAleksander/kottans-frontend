@@ -7,7 +7,7 @@
 
 // ======== OBJECTS DEFINITIONS ========
 // Define your objects here
-class Inhabitants {
+class Inhabitant {
     constructor(species, name, gender, legs, hands, saying) {
         this.species = species;
         this.name = name;
@@ -18,18 +18,16 @@ class Inhabitants {
     }
 }
 
-const dog = new Inhabitants('dog','Lucky', 'male', '4', '0', 'Woof-woof');
-const cat = new Inhabitants('cat','Tihon', 'male', '4', '0', 'Meow');
-const woman = new Inhabitants('human','Jenny', 'female', '2', '2', 'Hi, animals');
-const man = new Inhabitants('human','Arnold', 'male', '2', '2', 'I\'ll be back');
+const dog = new Inhabitant('dog','Lucky', 'male', '4', '0', 'Woof-woof');
+const cat = new Inhabitant('cat','Tihon', 'male', '4', '0', 'Meow');
+const woman = new Inhabitant('human','Jenny', 'female', '2', '2', 'Hi, animals');
+const man = new Inhabitant('human','Arnold', 'male', '2', '2', 'I\'ll be back');
 
 let inhabitants = [dog, cat, woman, man];
 
 inhabitants.forEach(person => {
-    print(person.species + ';' + person.name + ';'+  person.gender + ';' + person.legs + ';' + person.hands + ';'+  person.saying);
+    print([person.species, person.name, person.gender, person.legs, person.hands, person.saying].join(' ; '));
 });
-
-
 
 // ======== OUTPUT ========
 /* Use print(message) for output.
@@ -49,5 +47,3 @@ inhabitants.forEach(person => {
    print('human; <strong>John</strong>; male; 2; 2; <em>Hello world!</em>; Rex, Tom, Jenny');
    print('human; <strong>John</strong>; male; 2; 2; <em>Hello world!</em>; Rex, Tom, Jenny', 'div');
    */
-
-
