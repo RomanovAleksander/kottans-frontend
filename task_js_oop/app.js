@@ -3,7 +3,9 @@ const canvasWidth = 505,
       blockHeight = 83,
       initialX = blockWidth * 2,
       initialY = 400,
-      minSpeed = 120;
+      minSpeed = 120,
+      enemy = 'images/enemy-bug.png';
+
 
 let imagesOfHeroes = [
     'images/char-boy.png',
@@ -14,7 +16,7 @@ let imagesOfHeroes = [
 ];
 
 const Enemy = function (x, y, player) {
-    this.sprite = 'images/enemy-bug.png';
+    this.sprite = enemy;
     this.x = x;
     this.y = y;
     this.player = player;
