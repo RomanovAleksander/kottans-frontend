@@ -16,7 +16,7 @@
 ### Advanced Topics
 - [x] 7. [Building a Tiny JS World](task_js_pre_oop)  - Reviewed and approved by @OleksiyRudenko [Demo](https://romanovaleksander.github.io/a-tiny-JS-world/) | [Codebase](https://github.com/RomanovAleksander/a-tiny-JS-world)
 - [x] 8. [Object oriented JS](task_js_oop) - Reviewed and approved by @OleksiyRudenko [Demo](https://romanovaleksander.github.io/frogger-game/) | [Codebase](https://github.com/RomanovAleksander/frogger-game)
-- [ ] 9. [OOP exercise](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md)
+- [x] 9. [OOP exercise](task_js_pre_oop_improved)
 - [x] 10. [Offline Web Applications](task_offline_web_app)
 - [ ] 11. [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md)
 - [ ] 12. [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)
