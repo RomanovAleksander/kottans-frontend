@@ -19,5 +19,5 @@
 - [x] 9. [OOP exercise](task_js_pre_oop_improved) - Reviewed and approved by @OleksiyRudenko  [Demo](https://romanovaleksander.github.io/a-tiny-JS-world/) | [Codebase](task_js_pre_oop_improved/index.js)
 - [x] 10. [Offline Web Applications](task_offline_web_app)
 - [ ] 11. [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md)
-- [ ] 12. [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)
+- [x] 12. [Website Performance Optimization](task_website_performance)
 - [ ] 13. [Friends App](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md)
