@@ -18,6 +18,6 @@
 - [x] 8. [Object oriented JS](task_js_oop) - Reviewed and approved by @OleksiyRudenko [Demo](https://romanovaleksander.github.io/frogger-game/) | [Codebase](https://github.com/RomanovAleksander/frogger-game)
 - [x] 9. [OOP exercise](task_js_pre_oop_improved) - Reviewed and approved by @OleksiyRudenko  [Demo](https://romanovaleksander.github.io/a-tiny-JS-world/) | [Codebase](task_js_pre_oop_improved/index.js)
 - [x] 10. [Offline Web Applications](task_offline_web_app)
-- [x] 11. [Memory pair game](task_memory_game) - Reviewed and approved by @<zonzujiro>  [Demo](https://romanovaleksander.github.io/memory-game/) | [Codebase](task_memory_game/main.js)
+- [x] 11. [Memory pair game](task_memory_game) - Reviewed and approved by @zonzujiro  [Demo](https://romanovaleksander.github.io/memory-game/) | [Codebase](task_memory_game/main.js)
 - [x] 12. [Website Performance Optimization](task_website_performance)
 - [ ] 13. [Friends App](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md)
